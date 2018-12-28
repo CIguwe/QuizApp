@@ -1,0 +1,32 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">QuizApp</string>
+    <string name="name"> Genetics Quiz</string>
+    <string name="firstQuestionTitle">Question One</string>
+    <string name="secondQuestionTitle">Question Two</string>
+    <string name="thirdQuestionTitle">Question Three</string>
+    <string name="fourthQuestionTitle">Question Four</string>
+    <string name="fifthQuestionTitle">Question Five</string>
+    <string name="firstQuestion">Which Country won the 2006 World Cup?</string>
+    <string name="answerFrance">France</string>
+    <string name="correctAns1">Italy</string>
+    <string name="answerArg">Argentina</string>
+    <string name="secondQuestion">Who is the most Expensive Player in Football?</string>
+    <string name="expensive">Most Expensive</string>
+    <string name="thirdQuestion">Which of these players have won a the FIFA World\'s best player
+        award? choose all the right answers </string>
+    <string name="correctAns2">George Weah</string>
+    <string name="answerOwen">Michael Owen</string>
+    <string name="correctAns3">Zinedine Zidane</string>
+    <string name="answerIbra">Zlatan Ibrahimovic</string>
+    <string name="fourthQuestion">How many premier league titles have Manchester United won?</string>
+    <string name="correctAns4">20</string>
+    <string name="answer18">18</string>
+    <string name="answer21">21</string>
+    <string name="fifthQuestion">Which of these players currently play for Real Madrid?
+        choose all the right answers</string>
+    <string name="correctAns5">Toni Kroos</string>
+    <string name="correctAns6">Dani Ceballos</string>
+    <string name="answerRonaldo">Cristiano Ronaldo</string>
+    <string name="answerPepe">Pepe</string>
+    <string name="submit">Submit</string>
+</resources>
